@@ -115,7 +115,7 @@ export function IntroView() {
       <div className="mx-auto max-w-6xl">
         <div className="mx-auto w-fit -rotate-1 rounded-[2rem] rainbow-bg p-1.5 shadow-xl">
           <h1 className="rounded-[1.7rem] bg-white px-6 py-3 text-center font-display text-2xl font-bold sm:text-3xl md:text-5xl">
-            <span className="rainbow-text">SELAMAT DATANG KE DUNIA INSIDE OUT!</span>
+            <span className="rainbow-text">SELAMAT DATANG KE DUNIA EMOSI!</span>
           </h1>
         </div>
 
