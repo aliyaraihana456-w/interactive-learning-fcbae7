@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" width="200" height="260">
+  <defs><radialGradient id="g" cx="50%" cy="45%" r="55%"><stop offset="0" stop-color="#fff7b0"/><stop offset="1" stop-color="#ffd23f" stop-opacity="0"/></radialGradient></defs>
+  <circle cx="100" cy="120" r="100" fill="url(#g)"/>
+  <path d="M70 160 Q100 150 130 160 L150 238 Q100 250 50 238 Z" fill="#7bd36b" stroke="#3d8f3a" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M75 175 Q100 185 125 175" fill="none" stroke="#3d8f3a" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round"/>
+  <path d="M62 170 Q40 140 32 118" fill="none" stroke="#ffe066" stroke-width="12" stroke-linecap="round"/>
+  <path d="M138 170 Q160 140 168 118" fill="none" stroke="#ffe066" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="30" cy="112" r="10" fill="#ffe066"/><circle cx="170" cy="112" r="10" fill="#ffe066"/>
+  <rect x="82" y="236" width="12" height="18" rx="5" fill="#ffe066"/><rect x="106" y="236" width="12" height="18" rx="5" fill="#ffe066"/>
+  <circle cx="100" cy="100" r="54" fill="#ffe066" stroke="#e8b400" stroke-width="4"/>
+  <path d="M46 92 L54 56 L66 76 L74 44 L88 70 L100 38 L112 70 L126 44 L134 76 L146 56 L154 92 Q150 70 100 64 Q50 70 46 92 Z" fill="#3a7bd5" stroke="#1f4f9a" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="80" cy="100" rx="9" ry="12" fill="#2b2b4a"/><ellipse cx="120" cy="100" rx="9" ry="12" fill="#2b2b4a"/>
+  <circle cx="83" cy="96" r="3.5" fill="#fff"/><circle cx="123" cy="96" r="3.5" fill="#fff"/>
+  <path d="M70 84 Q80 78 90 84" fill="none" stroke="#1f4f9a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M110 84 Q120 78 130 84" fill="none" stroke="#1f4f9a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M76 120 Q100 150 124 120 Z" fill="#c2185b" stroke="#8a0f40" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M86 132 Q100 142 114 132" fill="#ff8fab"/>
+  <circle cx="66" cy="118" r="7" fill="#ffab76" opacity=".7"/><circle cx="134" cy="118" r="7" fill="#ffab76" opacity=".7"/>
+  <path d="M170 30 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" fill="#fff59d"/>
+  <path d="M28 40 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z" fill="#fff59d"/>
+</svg>
