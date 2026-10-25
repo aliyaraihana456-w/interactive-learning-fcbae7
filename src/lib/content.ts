@@ -105,6 +105,13 @@ export const SADNESS_PAIRS = [
     explanation:
       'Syabas! Gula mempunyai rasa manis. Oleh itu, gula digunakan sebagai perbandingan untuk menerangkan rasa manis.',
   },
+  {
+    id: 'sadness-4',
+    phrase: 'Ringan seperti kapas',
+    meaning: 'Menggambarkan sesuatu yang tidak berat.',
+    explanation:
+        'Tahniah! Kapas mempunyai berat yang ringan. Oleh itu, kapas digunakan sebagai perbandingan untuk menerangkan sesuatu yang ringan.',
+  },
 ]
 
 export const ANGER_QUESTIONS = [
