@@ -17,8 +17,8 @@ export function HomeView() {
       <section className="relative overflow-hidden">
         <div className="relative min-h-[640px] w-full md:aspect-[16/9] md:min-h-0 lg:max-h-[calc(100vh-4rem)] lg:min-h-[620px]">
           <img
-            src={img('hero-bg.png', 1600)}
-            srcSet={`${img('hero-bg.png', 800)} 800w, ${img('hero-bg.png', 1600)} 1600w`}
+            src={img('latar-utama-3d.png', 1600)}
+            srcSet={`${img('latar-utama-3d.png', 800)} 800w, ${img('latar-utama-3d.png', 1600)} 1600w`}
             sizes="100vw"
             alt=""
             className="absolute inset-0 size-full object-cover"
