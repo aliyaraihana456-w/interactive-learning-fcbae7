@@ -139,6 +139,22 @@ export const ANGER_QUESTIONS = [
     explanation:
       'Syabas! Ayat ini menunjukkan wajah Aida kelihatan berseri dengan membandingkannya dengan bulan.',
   },
+  {
+    id: 'anger-4',
+    scrambled: ['Zarif', 'seperti', 'arnab', 'berlari', 'pantas'],
+    answer: ['Zarif', 'berlari', 'pantas', 'seperti', 'arnab'],
+    hint: 'Susun perkataan untuk membentuk ayat yang lengkap. Apakah yang dilakukan oleh Zarif?',
+    explanation:
+      'Syabas! Ayat ini membandingkan kepantasan Zarif berlari dengan arnab.',
+  },
+  {
+    id: 'anger-5',
+    scrambled: ['Awan', 'itu', 'kapas', 'seperti', 'putih'],
+    answer: ['Awan', 'itu', 'putih', 'seperti', 'kapas'],
+    hint: 'Mulakan ayat dengan “Awan”. Apakah benda yang berwarna putih?',
+    explanation:
+      'Hebat! Ayat ini membandingkan warna awan dengan kapas yang berwarna putih.',
+  },
 ]
 
 export const DISGUST_QUESTIONS = [
