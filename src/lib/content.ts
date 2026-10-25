@@ -193,6 +193,42 @@ export const DISGUST_QUESTIONS = [
     answer: 'Kuih raya di dalam bekas manis bak gula.',
     explanation:
       'Syabas! Gula mempunyai rasa manis. Oleh itu, ungkapan ‘manis bak gula’ lebih sesuai untuk menggambarkan rasa kuih.',
+  }, 
+  {
+   id: 'disgust-4',
+   wrong: 'Ali bijak seperti batu ketika menjawab teka-teki.',
+   wrongWord: 'batu',
+   options: [
+     'Ali bijak seperti kancil ketika menjawab teka-teki.',
+     'Ali bijak seperti keldai ketika menjawab teka-teki.',
+   ],
+   answer: 'Ali bijak seperti kancil ketika menjawab teka-teki.',
+   explanation:
+     'Syabas! Kancil sering digambarkan sebagai haiwan yang bijak dan cerdik dalam cerita rakyat. Oleh itu, ungkapan ini sesuai untuk menggambarkan seseorang yang bijak.',
+  },
+  {
+   id: 'disgust-5',
+   wrong: 'Baju itu ringan seperti batu.',
+   wrongWord: 'batu',
+   options: [
+    'Baju itu ringan seperti kapas.',
+    'Baju itu ringan seperti besi.',
+   ],
+   answer: 'Baju itu ringan seperti kapas.',
+   explanation:
+    'Betul! Kapas mempunyai berat yang ringan, jadi ungkapan ini sesuai untuk menggambarkan sesuatu yang ringan.',
+  },
+  {
+   id: 'disgust-6',
+   wrong: 'Amani itu tinggi seperti anak kucing.',
+   wrongWord: 'anak kucing',
+   options: [
+    'Amani itu tinggi seperti galah.',
+    'Amani itu tinggi seperti bola.',
+   ],
+   answer: 'Amani itu tinggi seperti galah.',
+   explanation:
+    'Hebat! Galah ialah objek yang panjang dan tinggi. Ungkapan ini menggambarkan seseorang yang tinggi.',
   },
 ]
 
