@@ -62,28 +62,28 @@ function Shell() {
         {view === 'joy' && (
           <StationView
             id="joy"
-            instruction="Selamat datang ke Stesen Joy! Padankan setiap bandingan semacam dengan gambar yang betul."
+            instruction="Selamat datang ke Stesen Gembira! Padankan setiap bandingan semacam dengan gambar yang betul."
             Game={JoyGame}
           />
         )}
         {view === 'sadness' && (
           <StationView
             id="sadness"
-            instruction="Di Stesen Sadness, bukalah kad ayat dan padankan ayat tersebut dengan maksud yang paling tepat."
+            instruction="Di Stesen Sedih, bukalah kad ayat dan padankan ayat tersebut dengan maksud yang paling tepat."
             Game={SadnessGame}
           />
         )}
         {view === 'anger' && (
           <StationView
             id="anger"
-            instruction="Alamak! Perkataan telah bercampur-aduk. Bantu Anger menyusun perkataan supaya menjadi ayat tunggal yang lengkap!"
+            instruction="Alamak! Perkataan telah bercampur-aduk. Bantu Marah menyusun perkataan supaya menjadi ayat tunggal yang lengkap!"
             Game={AngerGame}
           />
         )}
         {view === 'disgust' && (
           <StationView
             id="disgust"
-            instruction="Wah, ada ayat yang tidak sesuai! Bantu Disgust mengenal pasti kesalahan dan pilih kad pembetulan yang betul."
+            instruction="Wah, ada ayat yang tidak sesuai! Bantu Loya mengenal pasti kesalahan dan pilih kad pembetulan yang betul."
             Game={DisgustGame}
           />
         )}
