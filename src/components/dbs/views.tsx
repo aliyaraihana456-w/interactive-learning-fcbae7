@@ -300,7 +300,10 @@ export function MapView() {
   const pct = (completedCount / 4) * 100
 
   return (
-    <section className="dreamy-bg min-h-[calc(100vh-4rem)] px-4 py-10">
+    <section
+  className="min-h-[calc(100vh-4rem)] px-4 py-10 bg-cover bg-center bg-no-repeat"
+  style={{ backgroundImage: `url("${img('latar-utama-3d.png', 1600)}")` }}
+>
       <div className="mx-auto max-w-6xl">
         <SectionTitle sub="Tekan mana-mana stesen untuk memulakan misi.">KEMBARA MISI BANDINGAN SEMACAM</SectionTitle>
 
