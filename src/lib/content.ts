@@ -5,7 +5,8 @@ export type StationId = 'joy' | 'sadness' | 'anger' | 'disgust'
 export const img = (file: string, w = 480) =>
   `/.netlify/images?url=/img/${file}&w=${w}&fm=webp`
 
-export const charImg = (id: CharacterId) => `/img/chars/${id}.svg`
+export const charImg = (id: CharacterId) =>
+  id === 'riley' ? `/img/chars/${id}.svg` : `/img/chars/${id}.png`
 
 export type CharacterId = 'joy' | 'sadness' | 'anger' | 'disgust' | 'riley'
 
